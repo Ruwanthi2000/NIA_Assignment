@@ -1,1 +1,3 @@
-This is NIA Group assignment and this is sourse code .
+Nature Inspired Algorithms
+
+This is NIA Group assignment sourse code .
